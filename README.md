@@ -1,1 +1,1 @@
-# TMS_An15_Lesson_2
+The "main" branch contains a program using the Scanner method to output the username
